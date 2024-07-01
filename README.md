@@ -7,6 +7,8 @@ A first attempt at using Epic [RealityCapture](https://www.capturingreality.com/
 
 Useful enough to be used for my purposes of mechanical design of K5 radio hacks and enhancements.  This could also be used as a basis of a proper solid model in other software.
 ![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-1.jpg)
+![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-3.jpg)
+
 
 There is a RealityCapture project included in this repo.  If you do use it, upon opening RealityCapture, it will protest and ask if you want to locate the photos & masks used.  Answer "Yes" and surf to the folders named "Group 1" and "Group 2".  From there the project will load.  When saved, the local path to the photos will be saved in the project.
 
