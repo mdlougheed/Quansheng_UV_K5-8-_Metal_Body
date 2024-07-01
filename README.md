@@ -3,8 +3,10 @@
 
 
 A first attempt at using Epic [RealityCapture](https://www.capturingreality.com/) to digitize the Quansheng UV-K5(8) metal PCB mount/shield by photogrammetry.
+![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/RC-1.jpg)
 
 Useful enough to be used for my purposes of mechanical design of K5 radio hacks and enhancements.  This could also be used as a basis of a proper solid model in other software.
+![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-1.jpg)
 
 There is a RealityCapture project included in this repo.  If you do use it, upon opening RealityCapture, it will protest and ask if you want to locate the photos & masks used.  Answer "Yes" and surf to the folders named "Group 1" and "Group 2".  From there the project will load.  When saved, the local path to the photos will be saved in the project.
 
@@ -14,7 +16,11 @@ For those who want to use the results without going through RealityCapture, the 
 - STL mesh and colorized point cloud in XYZ format
 - A Rhino-3D model with mesh and colorized point cloud that has been scaled (approximately)
 
-Additional content has been leveraged from the [excellent KICAD schematic capture and PCB project](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) for the K5.  Many thanks to [mentalDetector](https://github.com/mentalDetector) and the community for all the great resources.
+Additional content has been leveraged from the [excellent KICAD schematic capture and PCB project](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) for the K5.  
+![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-2.jpg)
+
+
+Many thanks to [mentalDetector](https://github.com/mentalDetector) and the community for all the great resources.
 
 - [Ludwich](https://github.com/ludwich66)
 - [Manuel](https://github.com/manujedi)
