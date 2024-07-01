@@ -5,7 +5,7 @@
 A first attempt at using Epic [RealityCapture](https://www.capturingreality.com/) to digitize the Quansheng UV-K5(8) metal PCB mount/shield by photogrammetry.
 ![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/RC-1.jpg)
 
-Useful enough to be used for my purposes of mechanical design of K5 radio hacks and enhancements.  This could also be used as a basis of a proper solid model in other software.
+Useful enough for my purposes of mechanical design of K5 radio hacks and enhancements.  This could also be used as a basis of a proper solid model in other software.
 ![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-1.jpg)
 ![](https://github.com/mdlougheed/Quansheng_UV_K5-8-_Metal_Body/blob/main/ScreenShots/Rhino-3.jpg)
 
