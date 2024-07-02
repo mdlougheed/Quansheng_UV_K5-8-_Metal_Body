@@ -1,3 +1,4 @@
+Patience please - while I figure a way to share the bulk of files.
 
 ## RealityCapture of Quansheng UV-K5(8) Metal Body ##
 
