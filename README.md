@@ -1,6 +1,7 @@
 Patience please - while I figure a way to share the bulk of files.
 
 (1-JUL-2024) XYZ Point Cloud is uploaded.
+(2-JUL-2024) Photos, masks and registration points for RealityCapture are uploaded
 
 ## RealityCapture of Quansheng UV-K5(8) Metal Body ##
 
