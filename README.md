@@ -1,4 +1,4 @@
-Patience please - while I figure a way to share the bulk of files.
+## RealityCapture of Quansheng UV-K5(8) Metal Body ##
 
 (3-JUL-2024) OBJ model + texture uploaded
 
@@ -10,8 +10,6 @@ Patience please - while I figure a way to share the bulk of files.
 
 (1-JUL-2024) XYZ Point Cloud is uploaded.
 
-
-## RealityCapture of Quansheng UV-K5(8) Metal Body ##
 
 
 A first attempt at using Epic [RealityCapture](https://www.capturingreality.com/) to digitize the Quansheng UV-K5(8) metal PCB mount/shield by photogrammetry.
