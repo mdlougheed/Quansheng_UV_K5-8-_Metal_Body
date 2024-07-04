@@ -1,5 +1,7 @@
 Patience please - while I figure a way to share the bulk of files.
 
+(3-JUL-2024) Rhino-3D model file uploaded
+
 (2-JUL-2024) Binary version of STL model file uploaded (compliments XYZ point cloud file)
 
 (2-JUL-2024) Photos, masks and registration points for RealityCapture are uploaded
