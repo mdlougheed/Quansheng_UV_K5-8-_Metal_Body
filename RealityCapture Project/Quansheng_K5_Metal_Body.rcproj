@@ -1,0 +1,454 @@
+<RealityCapture version="1.4.1.117424" sceneRevision="49" sceneId="{B8E25D6A-7847-41D8-A06D-AD33A8D9E0F5}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="G:\DCIM\Group 1\IMGP9063.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9063.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9064.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9064.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9065.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9065.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9066.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9066.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9067.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9067.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9068.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9068.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9069.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9069.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9070.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9070.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9071.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9071.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9072.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9072.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9073.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9073.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9074.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9074.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9075.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9075.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9076.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9076.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9077.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9077.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9078.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9078.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9079.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9079.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9080.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9080.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9081.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9081.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9082.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9082.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9083.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9083.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9084.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9084.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9085.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9085.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9086.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9086.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9087.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9087.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9088.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9088.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9089.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9089.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9090.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9090.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9091.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9091.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9092.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9092.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9093.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9093.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9094.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9094.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9095.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9095.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9096.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9096.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9097.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9097.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9098.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9098.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9099.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9099.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9100.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9100.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9101.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9101.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9102.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9102.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9103.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9103.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9104.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9104.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9105.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9105.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9106.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9106.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9107.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9107.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9108.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9108.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9109.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9109.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9110.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9110.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9111.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9111.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9112.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9112.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9113.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9113.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9114.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9114.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9115.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9115.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9116.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9116.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9117.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9117.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9118.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9118.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9119.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9119.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9120.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9120.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9121.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9121.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9122.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9122.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9123.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9123.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9124.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9124.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9125.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9125.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9126.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9126.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9127.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9127.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9128.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9128.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9129.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9129.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9130.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9130.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9131.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9131.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9132.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9132.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9133.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9133.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9134.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9134.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 1\IMGP9135.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 1\IMGP9135.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9136.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9136.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9137.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9137.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9138.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9138.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9139.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9139.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9140.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9140.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9141.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9141.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9142.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9142.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9143.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9143.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9144.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9144.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9145.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9145.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9146.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9146.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9147.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9147.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9148.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9148.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9149.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9149.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9150.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9150.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9151.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9151.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9152.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9152.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9153.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9153.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9154.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9154.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9155.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9155.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9156.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9156.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9157.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9157.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9158.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9158.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9159.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9159.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9160.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9160.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9161.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9161.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9162.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9162.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9163.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9163.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9164.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9164.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9165.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9165.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9166.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9166.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9167.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9167.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9168.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9168.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9169.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9169.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9170.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9170.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9171.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9171.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9172.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9172.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9173.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9173.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9174.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9174.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9175.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9175.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9176.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9176.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9177.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9177.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9178.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9178.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9179.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9179.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9180.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9180.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9181.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9181.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9182.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9182.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9183.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9183.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9184.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9184.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9185.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9185.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9186.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9186.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9187.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9187.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9188.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9188.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9189.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9189.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9190.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9190.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9191.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9191.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9192.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9192.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9193.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9193.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9194.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9194.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9195.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9195.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9196.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9196.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9197.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9197.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9198.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9198.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9199.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9199.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9200.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9200.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9201.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9201.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9202.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9202.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9203.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9203.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9204.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9204.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9205.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9205.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9206.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9206.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9207.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9207.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9208.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9208.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+        <input fileName="G:\DCIM\Group 2\IMGP9209.JPG">
+            <layer type="mask" fileName="G:\DCIM\Group 2\IMGP9209.JPG.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="3008" height="2000"/>
+        </input>
+    </source>
+    <entities name="entities" fileName="Quansheng_K5_Metal_Body\entities0.dat"/>
+    <animation fileName="Quansheng_K5_Metal_Body\animation0.dat"/>
+    <controlpoints fileName="Quansheng_K5_Metal_Body\controlpoints0.dat"/>
+    <appConfig fileName="Quansheng_K5_Metal_Body\appConfig0.dat" />
+</RealityCapture>
